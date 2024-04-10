@@ -1,0 +1,7 @@
+C:\Users\saovbapt\source\repos\GestaoDeClientesNoCmdProj2\GestaoDeClientesNoCmdProj2\bin\Debug\GestaoDeClientesNoCmdProj2.exe.config
+C:\Users\saovbapt\source\repos\GestaoDeClientesNoCmdProj2\GestaoDeClientesNoCmdProj2\bin\Debug\GestaoDeClientesNoCmdProj2.exe
+C:\Users\saovbapt\source\repos\GestaoDeClientesNoCmdProj2\GestaoDeClientesNoCmdProj2\bin\Debug\GestaoDeClientesNoCmdProj2.pdb
+C:\Users\saovbapt\source\repos\GestaoDeClientesNoCmdProj2\GestaoDeClientesNoCmdProj2\obj\Debug\GestaoDeClientesNoCmdProj2.csproj.AssemblyReference.cache
+C:\Users\saovbapt\source\repos\GestaoDeClientesNoCmdProj2\GestaoDeClientesNoCmdProj2\obj\Debug\GestaoDeClientesNoCmdProj2.csproj.CoreCompileInputs.cache
+C:\Users\saovbapt\source\repos\GestaoDeClientesNoCmdProj2\GestaoDeClientesNoCmdProj2\obj\Debug\GestaoDeClientesNoCmdProj2.exe
+C:\Users\saovbapt\source\repos\GestaoDeClientesNoCmdProj2\GestaoDeClientesNoCmdProj2\obj\Debug\GestaoDeClientesNoCmdProj2.pdb
